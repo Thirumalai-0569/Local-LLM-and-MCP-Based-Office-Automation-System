@@ -1,0 +1,15 @@
+Formula,Category,Explanation,Example
+SUM,Math,Adds numbers,0
+AVERAGE,Statistics,Calculates average,#DIV/0!
+COUNT,Statistics,Counts numeric cells,0
+COUNTA,Statistics,Counts non-empty cells,10
+MAX,Statistics,Returns maximum value,0
+MIN,Statistics,Returns minimum value,0
+IF,Logical,Checks a condition,Pass
+SUMIF,Math,Adds values matching a condition,0
+COUNTIF,Statistics,Counts cells matching a condition,0
+VLOOKUP,Lookup,Looks up a value vertically,#N/A
+XLOOKUP,Lookup,Finds matching values,#N/A
+CONCAT,Text,Joins text values,FormulaCategory
+TODAY,Date,Returns current date,46328
+ROUND,Math,Rounds a number,#VALUE!

@@ -1,0 +1,15 @@
+Shortcut,Function,Description
+Ctrl+C,Copy,Copies selected cells
+Ctrl+V,Paste,Pastes copied content
+Ctrl+X,Cut,Cuts selected content
+Ctrl+Z,Undo,Reverses last action
+Ctrl+Y,Redo,Repeats last action
+Ctrl+S,Save,Saves workbook
+Ctrl+F,Find,Searches workbook
+Ctrl+H,Replace,Finds and replaces content
+Ctrl+N,New,Creates a new workbook
+Ctrl+O,Open,Opens a workbook
+F2,Edit Cell,Edits the active cell
+Alt+Enter,New Line,Adds a line inside a cell
+Ctrl+1,Format Cells,Opens cell formatting
+Ctrl+Shift+L,Filter,Enables or disables filters

@@ -1,4 +1,4 @@
-# Smart Office AI Assistant
+# Local-LLM-and-MCP-Based-Office-Automation-System
 
 A beginner-friendly local office automation project using Streamlit, Ollama, Python, Excel, Word, Plotly, and MCP.
 
@@ -18,7 +18,7 @@ A beginner-friendly local office automation project using Streamlit, Ollama, Pyt
 
 ## 2. Create virtual environment (CMD)
 ```cmd
-cd path\to\Smart_Office_AI_Assistant
+cd path\to\Local-LLM-and-MCP-Based-Office-Automation-System
 python -m venv .venv
 .venv\Scripts\activate
 python -m pip install --upgrade pip
@@ -71,7 +71,7 @@ To start it manually for an MCP-compatible client, configure:
 
 ## Project structure
 ```text
-Smart_Office_AI_Assistant/
+Local-LLM-and-MCP-Based-Office-Automation-System/
 ├── app.py
 ├── requirements.txt
 ├── .env.example
